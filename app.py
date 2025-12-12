@@ -190,8 +190,8 @@ st.markdown("""
 # --- 4. GIAO DIỆN CHÍNH ---
 st.markdown("""
 <div class="main-header">
-    <h1>📘 TRỢ LÝ SOẠN GIÁO ÁN TỰ ĐỘNG (NLS)</h1>
-    <p>Tác giả: Lù Seo Sần - Trường PTDTBT Tiểu học Bản Ngò - ĐT: 097 1986 343</p>
+    TRỢ LÝ AI CỦA CÔ THÊM THMD
+    <p>Tác giả: Trần Thị Thêm - Trường tiểu học Minh Dân - ĐT: 0865450187</p>
 </div>
 """, unsafe_allow_html=True)
 
@@ -347,4 +347,4 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY"):
 
 # --- CHÂN TRANG ---
 st.markdown("---")
-st.markdown("<div style='text-align: center; color: #666;'>© 2025 - Lù Seo Sần - Trường PTDTBT Tiểu học Bản Ngò - ĐT: 097 1986 343</div>", unsafe_allow_html=True)
+st.markdown("<div style='text-align: center; color: #666;'>© 2025 - Trần Thị Thêm - Trường tiểu học Minh Dân - ĐT: 0865450187</div>", unsafe_allow_html=True)
